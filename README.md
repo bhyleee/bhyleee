@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **quantifying bats in weather radar, studying forest structure using spaceborne remote sensing data fusion, and eventually tying the two together to study how species occupy a landscape.**
 
-- 🌱 I’m currently learning **programming in Python and all things machine learning.**
-
 - 👯 I’m looking to collaborate on **all things remote sensing.**
 
 - 📫 How to reach me **brianlee52@ucsb.edu**
