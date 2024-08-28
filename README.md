@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **all things remote sensing.**
 
+- Most of my repos are private pending article/project publication. These projects include tracking bats with bat-aggregated time series using doppler radar and tracking  forest carbon fluxes in Chile using deep learning and remote sensing data fusion.
+
 - 📫 How to reach me **brianlee52@ucsb.edu**
 
 <h3 align="left">Connect with me:</h3>
